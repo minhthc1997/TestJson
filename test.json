@@ -1,0 +1,9 @@
+{
+    "products": [
+      { "id": "1", "title": "Ổ cứng HDD", "Images": "https://hanoicomputercdn.com/media/product/38329_docking_orico_6228us3_c___en.jpg", "cost": "600.000 đ" },
+      { "id": "2", "title": "VGA ASUS TUF GAMING GeForce RTX 3090", "Images": "https://anphat.com.vn/media/product/34412_tuf_rtx3090_24g_gaming_01.jpg", "cost": "30.899.000 đ" },
+      { "id": "3", "title": "Mainboard Asus ROG STRIX Z790-A GAMING WIFI DDR4", "Images": "https://anphat.com.vn/media/product/43572_mainboard_asus_rog_strix_z790_a_gaming_wifi_ddr4__8_.jpg", "cost": "14.990.000 đ" },
+      { "id": "4", "title": "Chuột Logitech G Pro X Superlight Wireless", "Images": "https://anphat.com.vn/media/product/36062_logitech_g_pro_x_superlight_black__1_.jpg", "cost": "2.990.000 đ" },
+      { "id": "5", "title": "Ổ cứng SSD WD SN570 Blue", "Images": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2022/10/29/image-removebg-preview-13.png", "cost": "2.690.000 đ" }
+    ]
+  }
